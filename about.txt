@@ -1,2 +1,0 @@
-this is my git project.
-I am learning git and github ,pr and conflicvt resolutiponS
